@@ -1,1 +1,1 @@
-# colorvocab.html
+# colorvocab
